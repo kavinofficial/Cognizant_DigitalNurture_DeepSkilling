@@ -1,1 +1,1 @@
-Week 1 tasks of CTS
+Weekly tasks of CTS
